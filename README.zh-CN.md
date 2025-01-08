@@ -16,15 +16,6 @@
     <a href="https://docs-admin.slashspaces.com/">Document</a>
     <br />
     <br />
-    <a href="https://trendshift.io/repositories/6387" target="_blank"><img src="https://trendshift.io/api/badge/repositories/6387" alt="d3george%2Fslash-admin | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</div>
-
-**中文** | [English](./README.md)
-
-## 赞助 
-<div style="display: flex; gap: 50px"> 
-  <img style="width:300px" src="https://d3george.github.io/github-static/pay/weixin.jpg" >
-  <img style="width:280px" src="https://d3george.github.io/github-static/pay/buymeacoffee.png" />
 </div>
 
 
